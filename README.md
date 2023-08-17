@@ -5,7 +5,6 @@
 **Twitter:** anirudh_bh  
 **Blog:** [http://anirudhbhatnagar.com](http://anirudhbhatnagar.com)  
 **LinkedIn:** [https://www.linkedin.com/in/anirudhbhatnagar/](https://www.linkedin.com/in/anirudhbhatnagar/)  
-**Work/VISA status:** Australian Citizen
 
 ## SUMMARY
 Experienced Software Industry professional with over 16 years of expertise in Agile Product development and Consulting. Currently serving as Engineering Lead at CashApp (Square). Adept in application architecture, AWS Certified Solutions Architect, and adept in Continuous Delivery/DevOps using CI tools, git, Terraform, Docker, Kubernetes. Frequent speaker and contributor to technical conferences, blogs, and forums.
