@@ -27,46 +27,50 @@ Experienced Software Industry professional with over 16 years of expertise in Ag
 - Orchestrated data platform migration to event-based architecture.
 - **Technology stack:** Diverse including AWS, Azure, Java, Spring, Terraform.
 
-### Tech Lead, ThoughtWorks Australia, Sydney *(Jan 2018 - May 2020)*
+### Tech Lead
+**ThoughtWorks Australia**, Sydney *(Jan 2018 - May 2020)*
 - Architected re-platforming for an Australian FinTech scale-up, transforming to Event-based Microservices.
 - Managed code deployments, Kubernetes setup, and test automation.
 - Guided data integration & identity platform implementation on Azure Cloud.
 - Ensured high-level architecture alignment with digital transformation strategy.
 - **Technology stack:** Java, Kotlin, .Net Core, Docker, Kubernetes, AWS, Azure.
 
-### Solutions Architect, Fluent Commerce, Sydney *(Oct 2016 - Jan 2018)*
+### Solutions Architect
+**Fluent Commerce**, Sydney *(Oct 2016 - Jan 2018)*
 - Drove technical direction to achieve product roadmap at omni-channel cloud platform.
 - Designed integration solutions for order management software.
 - Delivered production-ready, secure, and compliant code.
 - **Technology stack:** Java 8, React JS, Spring, AWS, Postgres.
 
-### Software Engineering Manager, Aurea Software *(Sep 2015 - Sep 2016)*
+### Software Engineering Manager
+**Aurea Software, Texas (US)**, *(Sep 2015 - Sep 2016)*
 - Managed billing, managing, and storing energy provider information for Aurea Energy Services.
 - Led delivery teams, ensured quality software delivery.
 - **Technology stack:** Java, Spring, Weblogic, .NET.
 
-### Principal Consultant, Xebia IT Architects, India *(Jun 2011 - Aug 2015)*
+### Principal Consultant
+**Xebia IT Architects, India** *(Jun 2011 - Aug 2015)*
 - Served as Architect/Tech Lead on projects for clients including Woolworths Australia.
 - Led development, deployment, and continuous delivery efforts.
 - **Technology stack:** Java, ESB Mule, AWS, Spring, MongoDB, Liferay.
 
-### Tech Lead/Architect, Campus EAI, myCampus Enterprise portal, India *(Jun 2011 - Aug 2015)*
-- Architected myCampus platform built on Liferay 5.2.3 for document management, CMS, and integration.
-- **Technology stack:** Java, JSP, Portlets, Liferay 5.2.3 ext development.
-
-### Senior Developer, Ultimate Meal Planner, Beachbody USA *(Jun 2011 - Aug 2015)*
-- Developed portlet for Ultimate Meal Planner, allowing admin to configure meal plans and track user preferences.
+### Senior Developer
+**Beachbody USA**, *(Jun 2011 - Aug 2015)*
+- Developed Ultimate Meal Planner application, allowing admin to configure meal plans and track user preferences.
 - **Technology stack:** Java, JSP, Spring, Liferay, Apache Solr, Ant, JUnit 4, JQuery, MySQL, Tomcat.
 
-### Software Developer, Morgan Stanley (via Headstrong Services, India) *(Mar 2010 - Jun 2011)*
+### Software Developer
+**Morgan Stanley, India** *(Mar 2010 - Jun 2011)*
 - Contributed to GRID, a J2EE application for managing, reporting, and analyzing funds and investments.
 - **Technology stack:** JSP, Servlets, Spring, Sybase DB, Tomcat Web Server.
 
-### Software Engineer, Adobe Systems India *(Mar 2008 - Jan 2010)*
+### Software Engineer
+**Adobe Systems India** *(Mar 2008 - Jan 2010)*
 - Part of the LiveCycle product team, working on a Java/J2EE-based service container for various functionalities.
 - **Technology stack:** Java, JEE, XML, MySQL, JBoss, JMS.
 
-### Java Engineer, Aditi Technologies (Harman) India *(Apr 2007 - Feb 2008)*
+### Java Engineer
+**Aditi Technologies (Harman) India** *(Apr 2007 - Feb 2008)*
 - Worked as a Java Developer in multiple projects using Java-based Web technologies.
 - **Technology stack:** Java, Struts, Hibernate, JEE, XML, MySQL, JBoss, JMS.
 
