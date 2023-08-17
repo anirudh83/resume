@@ -66,7 +66,7 @@ Experienced Software Industry professional with over 16 years of expertise in Ag
 - Part of the LiveCycle product team, working on a Java/J2EE-based service container for various functionalities.
 - **Technology stack:** Java, JEE, XML, MySQL, JBoss, JMS.
 
-### Java Engineer, Aditi Technologies (Harman) India *(Apr 2006 - Feb 2008)*
+### Java Engineer, Aditi Technologies (Harman) India *(Apr 2007 - Feb 2008)*
 - Worked as a Java Developer in multiple projects using Java-based Web technologies.
 - **Technology stack:** Java, Struts, Hibernate, JEE, XML, MySQL, JBoss, JMS.
 
