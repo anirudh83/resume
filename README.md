@@ -5,6 +5,7 @@
 **Twitter:** anirudh_bh  
 **Blog:** [http://anirudhbhatnagar.com](http://anirudhbhatnagar.com)  
 **LinkedIn:** [https://www.linkedin.com/in/anirudhbhatnagar/](https://www.linkedin.com/in/anirudhbhatnagar/)  
+**Work/VISA status:** Australian Citizen
 
 ## SUMMARY
 Experienced Software Industry professional with over 16 years of expertise in Agile Product development and Consulting. Currently serving as Engineering Lead at CashApp (Square). Adept in application architecture, AWS Certified Solutions Architect, and adept in Continuous Delivery/DevOps using CI tools, git, Terraform, Docker, Kubernetes. Frequent speaker and contributor to technical conferences, blogs, and forums.
@@ -49,6 +50,26 @@ Experienced Software Industry professional with over 16 years of expertise in Ag
 - Served as Architect/Tech Lead on projects for clients including Woolworths Australia.
 - Led development, deployment, and continuous delivery efforts.
 - **Technology stack:** Java, ESB Mule, AWS, Spring, MongoDB, Liferay.
+
+### Tech Lead/Architect, Campus EAI, myCampus Enterprise portal, India *(Jun 2011 - Aug 2015)*
+- Architected myCampus platform built on Liferay 5.2.3 for document management, CMS, and integration.
+- **Technology stack:** Java, JSP, Portlets, Liferay 5.2.3 ext development.
+
+### Senior Developer, Ultimate Meal Planner, Beachbody USA *(Jun 2011 - Aug 2015)*
+- Developed portlet for Ultimate Meal Planner, allowing admin to configure meal plans and track user preferences.
+- **Technology stack:** Java, JSP, Spring, Liferay, Apache Solr, Ant, JUnit 4, JQuery, MySQL, Tomcat.
+
+### Software Developer, Morgan Stanley (via Headstrong Services, India) *(Mar 2010 - Jun 2011)*
+- Contributed to GRID, a J2EE application for managing, reporting, and analyzing funds and investments.
+- **Technology stack:** JSP, Servlets, Spring, Sybase DB, Tomcat Web Server.
+
+### Software Engineer, Adobe Systems India *(Mar 2008 - Jan 2010)*
+- Part of the LiveCycle product team, working on a Java/J2EE-based service container for various functionalities.
+- **Technology stack:** Java, JEE, XML, MySQL, JBoss, JMS.
+
+### Java Engineer, Aditi Technologies (Harman) India *(Apr 2006 - Feb 2008)*
+- Worked as a Java Developer in multiple projects using Java-based Web technologies.
+- **Technology stack:** Java, Struts, Hibernate, JEE, XML, MySQL, JBoss, JMS.
 
 ## EDUCATION
 - BTech (Computer Science/Information Technology), Vishwakarma Institute of Technology, Pune University, 65.89%, First Class.
