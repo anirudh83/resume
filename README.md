@@ -1,4 +1,3 @@
-```markdown
 # ANIRUDH BHATNAGAR
 
 **Email:** anirudh.bh@gmail.com  
@@ -60,4 +59,3 @@ Experienced Software Industry professional with over 16 years of expertise in Ag
 ## OTHER ACTIVITIES
 - Blogs and Articles published on Java Code Geeks, DZone JavaLobby, and personal blog.
 - Speaker in Conferences: IndicThreads New Delhi, AgileNCR, BeingAgile, devOps days Bangalore.
-```
