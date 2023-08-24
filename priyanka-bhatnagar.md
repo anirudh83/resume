@@ -1,75 +1,84 @@
 # Priyanka Bhatnagar
-**Email:** ca.priyanka.bh@gmail.com
+**Phone:** 0415388052 | **Email:** ca.priyanka.bh@gmail.com
 **LinkedIn:** [Profile Link](https://www.linkedin.com/in/priyanka-bhatnagar-87575235/)
+**Location:** Neutral Bay, 2089, NSW | **VISA/Work:** Australian Citizen
 
 ## Summary
-Experienced Data Analyst, Chartered Accountant (CA ANZ), and MBA in Finance with a background in financial analysis, planning, and modeling. Proficient in data interpretation, financial analytics, and process automation. Skilled in stakeholder management and solution-oriented problem-solving.
+Experienced Data Analyst, Chartered Accountant (CA ANZ), and MBA in Finance with extensive experience in financial analysis, planning, and modeling. Adept at data interpretation, financial analytics, and process automation. Strong stakeholder management skills with a passion for problem-solving.
 
 ## Key Skills
-- Data analysis: SQL, Python, Spreadsheets
+Data analysis and interpretation using:
+- SQL, Python, Spreadsheets
 - Data Visualization: Tableau, Power BI
-- Financial Planning & Analysis, Business Partnering
-- Budgeting, Forecasting, Management Reporting
-- Process Improvement, Systems Automation
-- Month-end Processes & Reconciliations
+Financial Planning & Analysis, Business Partnering, Management Reporting, Budgets & Forecasts, Systems automation, Process improvement, Month-end process & Reconciliations.
 
 ## Education
-- Data Analysis Immersive, General Assembly, September 2023
-- Google Coursera Data Analytics, June 2023
-- Chartered Accountant, CA ANZ, 2019
-- Chartered Accountant, Institute of Chartered Accountants in India, 2007
-- MBA (Finance), Faculty of Management Studies, Udaipur, India, 2008
-- Bachelor of Commerce, India
+- **Data Analysis Immersive**, General Assembly, September 2023.
+- **Google Coursera Data Analytics**, June 2023.
+- **Chartered Accountant**, CA ANZ, 2019.
+- **MBA (Finance)**, Faculty of Management Studies, Udaipur, India, 2008.
+- **Bachelor of Commerce**, India.
 
 ## Experience
-**General Assembly, Australia**
+### General Assembly, Australia
 *Data Analytics Immersive, July 2023 - Sep 2023*
-- Completed 3-month full-time Data Analytics Immersive program
-- Projects: COVID Data Analysis, UK Gender Pay Gap Analysis, Product and Marketing Data Analysis, Kickstarter Campaign Analysis
+Projects:
+- COVID Data Analysis and Visualization in Tableau
+- UK Gender Pay Gap Analysis using SQL
+- Product and Marketing Data Analysis using Power BI
+- Kickstarter Campaign Analysis
 
-**Google**
+### Google
 *Data Analyst, Certification, April 2023 - June 2023*
-- Completed 3-month certified Data Analytics Course
-- Projects: Sydney Airbnb Investment Analysis, NY City Bike Share Analysis
+Projects:
+- Sydney Airbnb Investment Analysis
+- NY City Bike Share Analysis
 
-**VetPartners Sydney – Parent Company – NVA - US**
+### VetPartners Sydney – Parent Company – NVA - US
 *Financial Planning and Analysis Manager, Apr 2022 – Mar 2023*
-- Financial planning, analysis, and business partnering
-- Acquisitions and M&A process involvement
+Responsibilities:
+- Financial planning, budgeting, forecasting
+- Business partnering, acquisitions, and M&A process
 
-**Amplitel – A Telstra Company**
+### Amplitel – A Telstra Company
 *Finance Business Partner, Oct 2021 – Mar 2022*
-- Financial forecasting, revenue modeling, P&L reporting
-- Financial insights for operational decision-making
+Responsibilities:
+- 3-way Financial Forecasting model (P&L, BS, cashflow)
+- Complex revenue model automation
 
-**Hexagon PPM**
+### Hexagon PPM
 *Finance Business Partner, Apr 2021 – Sep 2021*
+Responsibilities:
 - KPI reporting, financial reporting, revenue forecasting
-- Financial support and analysis for Group functions
+- Development of Dashboards and Revenue Recognition templates through Power BI
 
-**Worley, Sydney**
+### Worley, Sydney
 *Senior Financial Analyst, July 2017 – Jan 2021*
-- Management reporting, budgeting, and forecasting
-- Investor reporting and analysis
+Responsibilities:
+- Management reporting using Hyperion
+- Budgets, forecasts, investor reporting
 
-**KPMG India**
+### KPMG India
 *Assistant Manager, April 2012 - April 2017*
-- Financial process setup, management accounts, budgets, and forecasts
-- Special projects for global leadership
+Responsibilities:
+- Financial process setup, management accounts, budgets, forecasts
+- Special projects with the Global leadership team
 
-**McKinsey & Company**
+### McKinsey & Company
 *Accounting Analyst, New Delhi, Jan 2011 - Apr 2012*
-- Partner awards budgeting, accounting, and reporting
+Responsibilities:
+- Partner awards budgeting, accounting, reporting
 - Coordination with cross-functional teams
 
-**DCM Sriram Consolidated Ltd.**
+### DCM Sriram Consolidated Ltd.
 *Assistant Manager, New Delhi, Jul 2008 - Jan 2011*
-- Consolidated financial statements, financial modeling
-- Variance analysis, MIS preparation
+Responsibilities:
+- Consolidated financial statements
+- 3-way financial model for annual budget and forecasting
 
 ## Recognition and Awards
-- Employee of the Month - VetPartners
-- Super Team Award - KPMG
-- Above and Beyond Champ Award - KPMG
-- Rising Star Award - McKinsey
-- Employee of the Month - DCM
+- Employee of the Month – VetPartners
+- Super Team Award – KPMG
+- Above and Beyond Champ Award – KPMG
+- Rising Star Award – McKinsey
+- Employee of the Month – DCM
