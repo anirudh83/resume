@@ -1,7 +1,6 @@
 # Priyanka Bhatnagar
-**Phone:** 0415388052 | **Email:** ca.priyanka.bh@gmail.com
+**Email:** ca.priyanka.bh@gmail.com
 **LinkedIn:** [Profile Link](https://www.linkedin.com/in/priyanka-bhatnagar-87575235/)
-**Location:** Neutral Bay, 2089, NSW | **VISA/Work:** Australian Citizen
 
 ## Summary
 Experienced Data Analyst, Chartered Accountant (CA ANZ), and MBA in Finance with a background in financial analysis, planning, and modeling. Proficient in data interpretation, financial analytics, and process automation. Skilled in stakeholder management and solution-oriented problem-solving.
