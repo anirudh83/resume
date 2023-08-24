@@ -1,7 +1,6 @@
 # Priyanka Bhatnagar
-**Phone:** 0415388052 | **Email:** ca.priyanka.bh@gmail.com
+**Email:** ca.priyanka.bh@gmail.com
 **LinkedIn:** [Profile Link](https://www.linkedin.com/in/priyanka-bhatnagar-87575235/)
-**Location:** Neutral Bay, 2089, NSW | **VISA/Work:** Australian Citizen
 
 ## Summary
 Experienced Data Analyst, Chartered Accountant (CA ANZ), and MBA in Finance with extensive experience in financial analysis, planning, and modeling. Adept at data interpretation, financial analytics, and process automation. Strong stakeholder management skills with a passion for problem-solving.
@@ -69,12 +68,6 @@ Responsibilities:
 Responsibilities:
 - Partner awards budgeting, accounting, reporting
 - Coordination with cross-functional teams
-
-### DCM Sriram Consolidated Ltd.
-*Assistant Manager, New Delhi, Jul 2008 - Jan 2011*
-Responsibilities:
-- Consolidated financial statements
-- 3-way financial model for annual budget and forecasting
 
 ## Recognition and Awards
 - Employee of the Month – VetPartners
