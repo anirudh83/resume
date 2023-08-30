@@ -3,35 +3,25 @@
 **LinkedIn:** [Profile Link](https://www.linkedin.com/in/priyanka-bhatnagar-87575235/)
 
 ## Summary
-Experienced Data Analyst, Chartered Accountant (CA ANZ), and MBA in Finance with extensive experience in financial analysis, planning, and modeling. Adept at data interpretation, financial analytics, and process automation. Strong stakeholder management skills with a passion for problem-solving.
+Experienced Financial Data Analyst, Chartered Accountant (CA ANZ), and MBA in Finance with extensive experience in financial analysis, planning, and modeling. Adept at data interpretation, financial analytics, and process automation. Strong stakeholder management skills with a passion for problem-solving.
 
 ## Key Skills
-Data analysis and interpretation using:
-- SQL, Python, Spreadsheets
-- Data Visualization: Tableau, Power BI
-Financial Planning & Analysis, Business Partnering, Management Reporting, Budgets & Forecasts, Systems automation, Process improvement, Month-end process & Reconciliations.
+- Financial Planning, Analysis and Modelling.
+- Data analysis, interpretation and visualisation using Excel, SQL, Python Tableau and Power BI
+- Bugeting and Forecasting.
+- Strategic Financial Analysis.
 
-## Education
-- **Data Analysis Immersive**, General Assembly, September 2023.
-- **Google Coursera Data Analytics**, June 2023.
-- **Chartered Accountant**, CA ANZ, 2019.
-- **MBA (Finance)**, Faculty of Management Studies, Udaipur, India, 2008.
-- **Bachelor of Commerce**, India.
-
-## Experience
-### General Assembly, Australia
-*Data Analytics Immersive, July 2023 - Sep 2023*
-Projects:
+## Projects
+*Data Analytics Immersive, General Assembly, Australia July 2023 - Sep 2023*
 - COVID Data Analysis and Visualization in Tableau
 - UK Gender Pay Gap Analysis using SQL
 - Product and Marketing Data Analysis using Power BI
-- Kickstarter Campaign Analysis
 
-### Google
-*Data Analyst, Certification, April 2023 - June 2023*
-Projects:
+*Google Data Analytics Certification, April 2023 - June 2023*
 - Sydney Airbnb Investment Analysis
 - NY City Bike Share Analysis
+
+## Experience
 
 ### VetPartners Sydney – Parent Company – NVA - US
 *Financial Planning and Analysis Manager, Apr 2022 – Mar 2023*
@@ -69,6 +59,13 @@ Responsibilities:
 - Partner awards budgeting, accounting, reporting
 - Coordination with cross-functional teams
 
+## Education
+- **Data Analysis Immersive**, General Assembly, September 2023.
+- **Google Coursera Data Analytics**, June 2023.
+- **Chartered Accountant**, CA ANZ, 2019.
+- **MBA (Finance)**, Faculty of Management Studies, Udaipur, India, 2008.
+- **Bachelor of Commerce**, India.
+  
 ## Recognition and Awards
 - Employee of the Month – VetPartners
 - Super Team Award – KPMG
