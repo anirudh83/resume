@@ -27,6 +27,7 @@ Experienced Financial Data Analyst, Chartered Accountant (CA ANZ), and MBA in Fi
 *Financial Planning and Analysis Manager, Apr 2022 – Mar 2023*
 Responsibilities:
 - Financial planning, budgeting, forecasting
+- Stakeholder presentations, Data Analysis with Visualisations using Tableau.
 - Business partnering, acquisitions, and M&A process
 
 ### Amplitel – A Telstra Company
